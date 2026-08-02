@@ -23,6 +23,13 @@ I believe that successful AI projects require more than accurate models—they n
 - Business Intelligence
 - Data Engineering
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrutabhalerao&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutabhalerao&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
 💻 Technical Skills
 - Programming
 - Python
