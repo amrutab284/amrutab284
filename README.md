@@ -6,6 +6,10 @@ I'm passionate about building intelligent, data-driven solutions and helping oth
 My experience spans machine learning, deep learning, natural language processing, computer vision, data analytics, and business intelligence. Along with developing AI solutions, I enjoy mentoring aspiring data professionals, designing practical learning experiences, and bridging the gap between theoretical concepts and real-world applications.
 I believe that successful AI projects require more than accurate models—they need clean code, reliable data pipelines, thoughtful experimentation, and solutions that create measurable business value. I'm continually exploring emerging technologies such as Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and modern MLOps practices.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutab284&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutab24&layout=compact&theme=tokyonight)
+
 🚀 Core Expertise
 - Artificial Intelligence
 - Machine Learning
@@ -22,12 +26,6 @@ I believe that successful AI projects require more than accurate models—they n
 - Time Series Forecasting
 - Business Intelligence
 - Data Engineering
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutab284&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutabhalerao&layout=compact&theme=tokyonight)
 
 💻 Technical Skills
 - Programming
