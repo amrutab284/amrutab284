@@ -1,5 +1,7 @@
 # Hi, I'm Amruta Bhalerao 👋
 ## AI Engineer | Machine Learning Engineer | Data Scientist | Data Analytics Professional
+##  🌐 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaleraoamruta0428@gmail.com)
 
 ## 🚀 About Me
 I'm passionate about building intelligent, data-driven solutions and helping others grow in the field of Artificial Intelligence and Data Science.
@@ -8,11 +10,15 @@ I believe that successful AI projects require more than accurate models—they n
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutab284&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutab284&layout=compact&theme=github_dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrutab284&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutab284&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=amrutab284&theme=tokyonight)](https://git.io/streak-stats)
+
+## ![](https://komarev.com/ghpvc/?username=amrutab284&style=flat-square&color=blue)
 
 
 ## 🚀 Core Expertise
